@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kungbi/Algorithm_leet/tree/master/0198-house-robber) |
+| [2058-concatenation-of-array](https://github.com/kungbi/Algorithm_leet/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kungbi/Algorithm_leet/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/kungbi/Algorithm_leet/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
