@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kungbi/Algorithm_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kungbi/Algorithm_leet/tree/master/0005-longest-palindromic-substring) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/kungbi/Algorithm_leet/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kungbi/Algorithm_leet/tree/master/0005-longest-palindromic-substring) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/kungbi/Algorithm_leet/tree/master/1739-split-two-strings-to-make-palindrome) |
 ## Simulation
 |  |
 | ------- |
