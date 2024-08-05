@@ -60,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kungbi/Algorithm_leet/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kungbi/Algorithm_leet/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
