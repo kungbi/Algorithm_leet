@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kungbi/Algorithm_leet/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/kungbi/Algorithm_leet/tree/master/0198-house-robber) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kungbi/Algorithm_leet/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/kungbi/Algorithm_leet/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
@@ -65,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kungbi/Algorithm_leet/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kungbi/Algorithm_leet/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
