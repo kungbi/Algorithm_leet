@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kungbi/Algorithm_leet/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1317-monthly-transactions-i](https://github.com/kungbi/Algorithm_leet/tree/master/1317-monthly-transactions-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kungbi/Algorithm_leet/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/kungbi/Algorithm_leet/tree/master/2087-confirmation-rate) |
 ## Greedy
