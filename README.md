@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kungbi/Algorithm_leet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kungbi/Algorithm_leet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kungbi/Algorithm_leet/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/kungbi/Algorithm_leet/tree/master/2058-concatenation-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kungbi/Algorithm_leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kungbi/Algorithm_leet/tree/master/2727-number-of-senior-citizens) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kungbi/Algorithm_leet/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kungbi/Algorithm_leet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
@@ -114,9 +116,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kungbi/Algorithm_leet/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kungbi/Algorithm_leet/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
