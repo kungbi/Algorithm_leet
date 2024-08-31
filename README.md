@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kungbi/Algorithm_leet/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kungbi/Algorithm_leet/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kungbi/Algorithm_leet/tree/master/0035-search-insert-position) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kungbi/Algorithm_leet/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
