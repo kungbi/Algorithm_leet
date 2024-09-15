@@ -21,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kungbi/Algorithm_leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kungbi/Algorithm_leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kungbi/Algorithm_leet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kungbi/Algorithm_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kungbi/Algorithm_leet/tree/master/0005-longest-palindromic-substring) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kungbi/Algorithm_leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/kungbi/Algorithm_leet/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2727-number-of-senior-citizens](https://github.com/kungbi/Algorithm_leet/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kungbi/Algorithm_leet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,4 +134,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kungbi/Algorithm_leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Prefix Sum
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kungbi/Algorithm_leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
