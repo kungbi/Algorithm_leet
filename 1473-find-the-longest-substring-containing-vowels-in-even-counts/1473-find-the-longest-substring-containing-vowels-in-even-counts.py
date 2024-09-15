@@ -22,8 +22,8 @@ class Solution:
             
             if mem_arr[mask] == -1 and 0 < mask:
                 mem_arr[mask] = i
-            
-            answer = max(answer, i - mem_arr[mask])
+            else:
+                answer = max(answer, i - mem_arr[mask])
 
         return answer
             
