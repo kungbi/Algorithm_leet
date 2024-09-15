@@ -6,22 +6,22 @@ class Solution:
 
         mask = 0
         answer = 0
-        mem_arr = [-1] * (2**5)
+        mem_arr = {0: -1}
 
         for i in range(n):
             if s[i] == 'a':
-                mask ^= 1 << 0
+                mask ^= 1
             elif s[i] == 'e':
-                mask ^= 1 << 1
+                mask ^= 2
             elif s[i] == 'i':
-                mask ^= 1 << 2
+                mask ^= 4
             elif s[i] == 'o':
-                mask ^= 1 << 3
+                mask ^= 8
             elif s[i] == 'u':
-                mask ^= 1 << 4
+                mask ^= 16
             
             print(mask)
-            if mem_arr[mask] == -1 and 0 < mask:
+            if mask not in mem_arr:
                 mem_arr[mask] = i
             
             answer = max(answer, i - mem_arr[mask])
