@@ -16,8 +16,8 @@ class Solution:
             print(mask)
             if mask not in mem_arr:
                 mem_arr[mask] = i
-            
-            answer = max(answer, i - mem_arr[mask])
+            else:
+                answer = max(answer, i - mem_arr[mask])
 
         return answer
             
