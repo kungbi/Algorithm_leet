@@ -12,8 +12,6 @@ class Solution:
         for i in range(n):
             if s[i] in vowels:
                 mask ^= vowels[s[i]]
-            
-            print(mask)
             if mask not in mem_arr:
                 mem_arr[mask] = i
             else:
