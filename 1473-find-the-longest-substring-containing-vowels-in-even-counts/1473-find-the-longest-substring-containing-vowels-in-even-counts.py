@@ -7,18 +7,11 @@ class Solution:
         mask = 0
         answer = 0
         mem_arr = {0: -1}
+        vowels = {'a': 1, 'e': 2, 'i': 4, 'o': 8, 'u': 16}
 
         for i in range(n):
-            if s[i] == 'a':
-                mask ^= 1
-            elif s[i] == 'e':
-                mask ^= 2
-            elif s[i] == 'i':
-                mask ^= 4
-            elif s[i] == 'o':
-                mask ^= 8
-            elif s[i] == 'u':
-                mask ^= 16
+            if s[i] in vowels:
+                mask ^= vowels[s[i]]
             
             print(mask)
             if mask not in mem_arr:
