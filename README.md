@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/kungbi/Algorithm_leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kungbi/Algorithm_leet/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/kungbi/Algorithm_leet/tree/master/0189-rotate-array) |
+| [0539-minimum-time-difference](https://github.com/kungbi/Algorithm_leet/tree/master/0539-minimum-time-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kungbi/Algorithm_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kungbi/Algorithm_leet/tree/master/0005-longest-palindromic-substring) |
+| [0539-minimum-time-difference](https://github.com/kungbi/Algorithm_leet/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kungbi/Algorithm_leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/kungbi/Algorithm_leet/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2727-number-of-senior-citizens](https://github.com/kungbi/Algorithm_leet/tree/master/2727-number-of-senior-citizens) |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/kungbi/Algorithm_leet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kungbi/Algorithm_leet/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/kungbi/Algorithm_leet/tree/master/0539-minimum-time-difference) |
 | [2058-concatenation-of-array](https://github.com/kungbi/Algorithm_leet/tree/master/2058-concatenation-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kungbi/Algorithm_leet/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kungbi/Algorithm_leet/tree/master/2727-number-of-senior-citizens) |
@@ -73,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kungbi/Algorithm_leet/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kungbi/Algorithm_leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/kungbi/Algorithm_leet/tree/master/0539-minimum-time-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kungbi/Algorithm_leet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
