@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kungbi/Algorithm_leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kungbi/Algorithm_leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kungbi/Algorithm_leet/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kungbi/Algorithm_leet/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kungbi/Algorithm_leet/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/kungbi/Algorithm_leet/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kungbi/Algorithm_leet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
